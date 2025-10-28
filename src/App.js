@@ -53,7 +53,7 @@ function App() {
                 I heard the math lab went... let’s say, *memorable* 😭 <br />
                 So here — flower & momos therapy, on the house.
               </p>
-              <button onClick={handleOrder}>Deliver my order 🌸🥟</button>
+              <button onClick={handleOrder}>Deliver my order</button>
             </motion.div>
           )}
 
