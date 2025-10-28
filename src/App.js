@@ -128,7 +128,7 @@ function App() {
                 <p className="easter-egg">STFU bro 😭💀 that’s ENOUGH momos.</p>
               )}
 
-              <button className="secondary" onClick={() => window.location.reload()}>
+              <button className="secondary" onClick={handleMoreMomo}>
                 Send another round 🚀
               </button>
             </motion.div>
