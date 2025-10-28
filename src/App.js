@@ -51,7 +51,7 @@ function App() {
               <h1>Hey 👋</h1>
               <p>
                 I heard the math lab went... let’s say, *memorable* 😭 <br />
-                So here — flower & momos therapy, on the house.
+                So here — a suprise, on the house.
               </p>
               <button onClick={handleOrder}>Deliver my order</button>
             </motion.div>
